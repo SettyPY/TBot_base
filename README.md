@@ -10,7 +10,7 @@ edit.py - bot for adding data to the database (xlsx file)
 
  ``` 
  pip install python-telegram-bot openpyxl termcolor
- 
+ git clone https://github.com/SettyPY/TBot_base.git
  ```
 # **How to configure?**
 open both files and change the TOKEN field to the token you received from Botfather.
