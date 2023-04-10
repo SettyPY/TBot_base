@@ -6,6 +6,8 @@ main.py - a bot for your users. in which they will be able to check their phone 
 
 edit.py - bot for adding data to the database (xlsx file)
 
+## Don't judge me harshly I'm a beginner
+
 # **How to install?**
 
  ``` 
